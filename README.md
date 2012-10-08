@@ -1,6 +1,3 @@
-arctic-hawk
-===========
-
 # About
 
 This all started on a plane flight home. Technically, it started after a pairing session recently on some WPF code where I lamented "Oh WPF you crazy bastard, I missed you". Anyway, I was frustrated by some work stuff and started pondering on a simple question:
